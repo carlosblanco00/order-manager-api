@@ -23,14 +23,14 @@ Primero, clona este repositorio en tu máquina local usando Git:
 ```bash
 git clone https://github.com/tu-usuario/order-manager-api.git
 cd order-manager-api
-
+```
 ### 3. Levanta los Contenedores con Docker Compose
 
 Levanta los contenedores necesarios ejecutando el siguiente comando:
 
 ```bash
 docker-compose up --build
-
+```
 Este comando realiza lo siguiente:
 
 Construye las imágenes necesarias.
